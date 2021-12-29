@@ -12,6 +12,6 @@ _**A private container registry with scanning capabilities and role-based access
 3. The Kubernetes, Terra form and Trow Documentation was brilliant and on-point and very simple to follow, it guided me through parts where I was stuck and didn't know what to do.
 4. Then there is the man **Olwi Mamduh** whose brilliant guide on how to automate this whole process with terraform guided me and helped me smoothly sail through the challenge! 
 
-## Link to my writepoint: 
+## Link to my Project Writeup: 
 _**https://dev.to/patglitch/digital-ocean-kubernetes-challenge-2021-deploying-an-internal-container-registry-4624**_
 
